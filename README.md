@@ -4,12 +4,11 @@ Windwork H5Preview
 
 使用方法:
 ---------------
-在head中加入显示样式：
+1、在head中加入显示样式：
 ```
     <link rel="stylesheet" type="text/css" href="theme/style.css">
 ```
-
-在body中加入如下代码：
+2、在body中加入js代码：
 ```
     <div class="pre-xx"></div>
     
