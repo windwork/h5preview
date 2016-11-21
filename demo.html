@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+    <link rel="stylesheet" type="text/css" href="theme/style.css">
+</head>
+<body>
+	
+    <div class="pre-xx"></div>
+    
+    <!--引入jquery和wf-h5preview代码-->
+	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
+	<script src="js/wf-h5preview.js"></script>
+    
+    <script>
+    $(function(){
+		// 向.pre-xx嵌入预览窗口
+		$('.pre-xx').wfH5Preview({
+			title: '我是说美丽的蘑菇街', // 预览窗口显示的标题
+			url: 'http://m.meilishuo.com/' // 预览的链接
+		});
+	})
+    </script>
+</body>
+</html>

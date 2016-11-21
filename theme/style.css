@@ -1,0 +1,9 @@
+.wf-h5-pre-box .wf-h5-pre-wp { width:322px; margin: 0 auto; }
+.wf-h5-pre-box .phone-top { height:42px; background:url(images/phone-top.png) 50% top no-repeat; }
+.wf-h5-pre-box .phone-status-bar { height:21px; background:url(images/phone-status-bar.png) 50% top no-repeat; }
+.wf-h5-pre-box .phone-title { background:#373B3E; color:#fff; padding:0 12px; height:40px; line-height:40px; overflow:hidden; font-size:16px; font-family:yahei,'microsoft yahei'; }
+.wf-h5-pre-box .phone-btm { height:47px; background:url(images/phone-btm.png) 50% top no-repeat; }
+.wf-h5-pre-box .phone-body { border:1px solid #f7f7f7; width:320px; height:506px; overflow:hidden; }
+.wf-h5-pre-box .phone-body iframe { width:338px; height: 100%; border:none; overflow:hidden; }
+.wf-h5-pre-box .phone-body iframe::-webkit-scrollbar { width: 5px; background-color: #F5F5F5; }
+
